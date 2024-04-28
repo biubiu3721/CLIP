@@ -197,3 +197,8 @@ Note that the `C` value should be determined via a hyperparameter sweep using a 
 
 * [OpenCLIP](https://github.com/mlfoundations/open_clip): includes larger and independently trained CLIP models up to ViT-G/14
 * [Hugging Face implementation of CLIP](https://huggingface.co/docs/transformers/model_doc/clip): for easier integration with the HF ecosystem
+* https://blog.51cto.com/u_15506603/9133501
+* https://zhuanlan.zhihu.com/p/667125960
+* https://mp.weixin.qq.com/s/6gQX91M-Lt7eiMimhYRJEw?poc_token=HOorLWaj1AEMQGQ8-dAn0DfnHPIWpD7_RGxjAS6Q
+* https://blog.csdn.net/qq_41234663/article/details/131024876
+* 
